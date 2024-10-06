@@ -22,3 +22,5 @@ Clone the repository and run `mvn spring-boot:run` to start the application.
 ## Configuration
 * Application properties are stored in `application.properties`
 * Environment variables can be set using the `spring.config.location` property
+
+#### This repository consists of the API endpoints built using Spring Boot that are used in the [JobListingPortal](https://github.com/anotherwebguy/JobListingPortalUI)
